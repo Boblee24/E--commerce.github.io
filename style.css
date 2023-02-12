@@ -62,9 +62,9 @@ svg.addcart {
 .checkout{
     position: absolute;
     background-color: white;
-    width: 350px;
-    height: 300px;
-    left: -16.9rem;
+    width: 340px;
+    height: 340px;
+    left: -15.6rem;
     top: 3rem;
     z-index: 9;
     transform: translate(-50% -50%);
